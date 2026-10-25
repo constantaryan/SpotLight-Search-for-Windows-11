@@ -1,0 +1,13 @@
+{
+  "text_samples": 272,
+  "stable_text_samples": 272,
+  "stable_fraction": 1.0,
+  "background_delta": [
+    13,
+    13,
+    13
+  ],
+  "expected_delta": 13,
+  "foreground": "opaque",
+  "background": "5% transparent"
+}

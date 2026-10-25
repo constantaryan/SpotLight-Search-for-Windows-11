@@ -1,0 +1,21 @@
+{
+  "frames": 41,
+  "stages_ms": {
+    "clear": 0.391,
+    "chrome": 1.848,
+    "input": 0.541,
+    "rows": 5.411,
+    "backdrop": 1.48,
+    "present": 0.945
+  },
+  "cycles": 20,
+  "cycle_frames": 40,
+  "cycle_stages_ms": {
+    "clear": 0.17,
+    "chrome": 1.441,
+    "input": 0.525,
+    "rows": 2.142,
+    "backdrop": 0.776,
+    "present": 0.886
+  }
+}

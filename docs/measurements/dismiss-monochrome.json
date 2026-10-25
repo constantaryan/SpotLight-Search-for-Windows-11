@@ -1,0 +1,13 @@
+{
+  "outside_buttons": [
+    "left",
+    "right",
+    "middle",
+    "X1"
+  ],
+  "inside_click": "keeps open",
+  "click_delivery": "passed",
+  "escape_input": "passed",
+  "escape_list": "passed",
+  "nonactivating_target": "passed"
+}

@@ -1,0 +1,26 @@
+{
+  "shortcut": "Left and right Windows+Space",
+  "repeat": "passed",
+  "release_order": "passed",
+  "idle_seconds": 60,
+  "before": {
+    "private": 5529600,
+    "working_set": 29503488,
+    "cpu_seconds": 0.40625,
+    "handles": 317,
+    "gdi": 36,
+    "user": 24,
+    "write_bytes": 0,
+    "write_ops": 0
+  },
+  "after": {
+    "private": 4861952,
+    "working_set": 28925952,
+    "cpu_seconds": 0.40625,
+    "handles": 311,
+    "gdi": 32,
+    "user": 21,
+    "write_bytes": 0,
+    "write_ops": 0
+  }
+}

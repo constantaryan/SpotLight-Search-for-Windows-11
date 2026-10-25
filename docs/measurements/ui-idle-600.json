@@ -1,0 +1,49 @@
+{
+  "cycles": 1000,
+  "initial_results": 10,
+  "before": {
+    "private": 5611520,
+    "working_set": 31633408,
+    "cpu_seconds": 0.625,
+    "handles": 333,
+    "gdi": 25,
+    "user": 20,
+    "write_bytes": 0,
+    "write_ops": 0
+  },
+  "after": {
+    "private": 5681152,
+    "working_set": 32018432,
+    "cpu_seconds": 7.40625,
+    "handles": 333,
+    "gdi": 23,
+    "user": 19,
+    "write_bytes": 0,
+    "write_ops": 0
+  },
+  "cycle_p50_ms": 8.685099994181655,
+  "cycle_p95_ms": 10.978899998008274,
+  "idle_seconds": 600.0,
+  "idle_before": {
+    "private": 5681152,
+    "working_set": 32018432,
+    "cpu_seconds": 7.40625,
+    "handles": 333,
+    "gdi": 23,
+    "user": 19,
+    "write_bytes": 0,
+    "write_ops": 0
+  },
+  "idle_after": {
+    "private": 6184960,
+    "working_set": 29278208,
+    "cpu_seconds": 7.46875,
+    "handles": 315,
+    "gdi": 23,
+    "user": 17,
+    "write_bytes": 0,
+    "write_ops": 0
+  },
+  "idle_cpu_percent": 0.0008680555555555555,
+  "idle_write_bytes": 0
+}

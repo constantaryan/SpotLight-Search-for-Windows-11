@@ -1,0 +1,253 @@
+{
+  "scope": "Native controls + fixed 5000-entry catalogue + ranking. No search-provider, allocation-count or long-idle measurements.",
+  "runs": {
+    "c": [
+      {
+        "hidden_private": 2097152,
+        "visible_private": 2179072,
+        "hidden_ws": 9314304,
+        "visible_ws": 9830400,
+        "rank_p50_ms": 0.3806,
+        "rank_p95_ms": 0.5097,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2080768,
+        "visible_private": 2162688,
+        "hidden_ws": 8683520,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.3769,
+        "rank_p95_ms": 0.466,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2080768,
+        "visible_private": 2162688,
+        "hidden_ws": 8679424,
+        "visible_ws": 9195520,
+        "rank_p50_ms": 0.3685,
+        "rank_p95_ms": 0.4904,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2084864,
+        "visible_private": 2166784,
+        "hidden_ws": 8679424,
+        "visible_ws": 9191424,
+        "rank_p50_ms": 0.38,
+        "rank_p95_ms": 0.4452,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2093056,
+        "visible_private": 2170880,
+        "hidden_ws": 8683520,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.3803,
+        "rank_p95_ms": 0.6424,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2105344,
+        "visible_private": 2183168,
+        "hidden_ws": 8699904,
+        "visible_ws": 9211904,
+        "rank_p50_ms": 0.378,
+        "rank_p95_ms": 0.5928,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2101248,
+        "visible_private": 2179072,
+        "hidden_ws": 8691712,
+        "visible_ws": 9203712,
+        "rank_p50_ms": 0.4167,
+        "rank_p95_ms": 0.6013,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      }
+    ],
+    "cpp": [
+      {
+        "hidden_private": 2138112,
+        "visible_private": 2220032,
+        "hidden_ws": 9338880,
+        "visible_ws": 9859072,
+        "rank_p50_ms": 0.4158,
+        "rank_p95_ms": 0.6646,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2105344,
+        "visible_private": 2187264,
+        "hidden_ws": 8683520,
+        "visible_ws": 9203712,
+        "rank_p50_ms": 0.3809,
+        "rank_p95_ms": 0.5527,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2105344,
+        "visible_private": 2183168,
+        "hidden_ws": 8695808,
+        "visible_ws": 9211904,
+        "rank_p50_ms": 0.4261,
+        "rank_p95_ms": 0.6758,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2093056,
+        "visible_private": 2174976,
+        "hidden_ws": 8679424,
+        "visible_ws": 9195520,
+        "rank_p50_ms": 0.3633,
+        "rank_p95_ms": 0.4381,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2093056,
+        "visible_private": 2170880,
+        "hidden_ws": 8687616,
+        "visible_ws": 9203712,
+        "rank_p50_ms": 0.3816,
+        "rank_p95_ms": 0.5637,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2097152,
+        "visible_private": 2174976,
+        "hidden_ws": 8679424,
+        "visible_ws": 9195520,
+        "rank_p50_ms": 0.4335,
+        "rank_p95_ms": 0.6583,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      },
+      {
+        "hidden_private": 2093056,
+        "visible_private": 2174976,
+        "hidden_ws": 8683520,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.382,
+        "rank_p95_ms": 0.5522,
+        "checksum": 3088360,
+        "exe_bytes": 157696
+      }
+    ],
+    "rust": [
+      {
+        "hidden_private": 2088960,
+        "visible_private": 2166784,
+        "hidden_ws": 9330688,
+        "visible_ws": 9842688,
+        "rank_p50_ms": 0.7653000056743622,
+        "rank_p95_ms": 1.236600011587143,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2056192,
+        "visible_private": 2138112,
+        "hidden_ws": 8691712,
+        "visible_ws": 9207808,
+        "rank_p50_ms": 0.7573999911546707,
+        "rank_p95_ms": 1.0699999928474426,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2064384,
+        "visible_private": 2142208,
+        "hidden_ws": 8687616,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.7641000002622604,
+        "rank_p95_ms": 1.014500007033348,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2052096,
+        "visible_private": 2134016,
+        "hidden_ws": 8687616,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.7591999918222427,
+        "rank_p95_ms": 0.8426000028848648,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2064384,
+        "visible_private": 2150400,
+        "hidden_ws": 8687616,
+        "visible_ws": 9203712,
+        "rank_p50_ms": 0.7553000003099442,
+        "rank_p95_ms": 0.9009999930858612,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2056192,
+        "visible_private": 2138112,
+        "hidden_ws": 8687616,
+        "visible_ws": 9199616,
+        "rank_p50_ms": 0.7538999915122986,
+        "rank_p95_ms": 0.8566000014543533,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      },
+      {
+        "hidden_private": 2052096,
+        "visible_private": 2134016,
+        "hidden_ws": 8683520,
+        "visible_ws": 9195520,
+        "rank_p50_ms": 0.7559999972581863,
+        "rank_p95_ms": 0.8979000002145767,
+        "checksum": 3088360,
+        "exe_bytes": 241152
+      }
+    ]
+  },
+  "medians": {
+    "c": {
+      "hidden_private": 2093056,
+      "visible_private": 2170880,
+      "hidden_ws": 8683520,
+      "visible_ws": 9199616,
+      "rank_p50_ms": 0.38,
+      "rank_p95_ms": 0.5097,
+      "checksum": 3088360,
+      "exe_bytes": 157696
+    },
+    "cpp": {
+      "hidden_private": 2097152,
+      "visible_private": 2174976,
+      "hidden_ws": 8683520,
+      "visible_ws": 9203712,
+      "rank_p50_ms": 0.382,
+      "rank_p95_ms": 0.5637,
+      "checksum": 3088360,
+      "exe_bytes": 157696
+    },
+    "rust": {
+      "hidden_private": 2056192,
+      "visible_private": 2138112,
+      "hidden_ws": 8687616,
+      "visible_ws": 9199616,
+      "rank_p50_ms": 0.7573999911546707,
+      "rank_p95_ms": 0.9009999930858612,
+      "checksum": 3088360,
+      "exe_bytes": 241152
+    }
+  }
+}

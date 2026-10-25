@@ -1,0 +1,59 @@
+{
+  "cycles": 1000,
+  "midpoint": {
+    "private": 12890112,
+    "working_set": 49618944,
+    "cpu_seconds": 33.296875,
+    "handles": 535,
+    "gdi": 67,
+    "user": 30,
+    "write_bytes": 208,
+    "write_ops": 2
+  },
+  "initial_results": 8,
+  "before": {
+    "private": 11685888,
+    "working_set": 42778624,
+    "cpu_seconds": 1.0625,
+    "handles": 477,
+    "gdi": 67,
+    "user": 29,
+    "write_bytes": 208,
+    "write_ops": 2
+  },
+  "after": {
+    "private": 12156928,
+    "working_set": 48889856,
+    "cpu_seconds": 33.296875,
+    "handles": 537,
+    "gdi": 63,
+    "user": 27,
+    "write_bytes": 208,
+    "write_ops": 2
+  },
+  "cycle_p50_ms": 49.04230000101961,
+  "cycle_p95_ms": 63.62469997839071,
+  "idle_seconds": 30.0,
+  "idle_before": {
+    "private": 12156928,
+    "working_set": 48889856,
+    "cpu_seconds": 33.296875,
+    "handles": 537,
+    "gdi": 63,
+    "user": 27,
+    "write_bytes": 208,
+    "write_ops": 2
+  },
+  "idle_after": {
+    "private": 12156928,
+    "working_set": 48893952,
+    "cpu_seconds": 33.296875,
+    "handles": 537,
+    "gdi": 63,
+    "user": 27,
+    "write_bytes": 208,
+    "write_ops": 2
+  },
+  "idle_cpu_percent": 0.0,
+  "idle_write_bytes": 0
+}
